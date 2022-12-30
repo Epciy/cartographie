@@ -4,7 +4,7 @@
 Creating a Simple Map with Folium and Python
 
 ## Requerement 
-jupyter notebook
-pandas
-folium  https://python-visualization.github.io/folium/
+- jupyter notebook
+- pandas
+- folium  https://python-visualization.github.io/folium/
 
